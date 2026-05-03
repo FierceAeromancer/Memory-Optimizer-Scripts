@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 About
+## 📌📌 About
 
 **Memory Optimizer Scripts — automation scripts, PowerShell tools, and utilities for Memory Optimizer. Download, extract, and start in minutes. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.**
 
